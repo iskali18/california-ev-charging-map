@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/ads.txt",
-      "destination": "YOUR_EZOIC_ADS_TXT_URL",
+      "destination": "https://srv.adstxtmanager.com/81260/californiaevcharging.com",
       "permanent": false
     }
   ]
