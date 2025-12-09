@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/ads.txt",
+      "destination": "YOUR_EZOIC_ADS_TXT_URL",
+      "permanent": false
+    }
+  ]
+}
